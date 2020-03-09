@@ -1,0 +1,11 @@
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/ElseIf/bin/Debug/netcoreapp3.1/ElseIf
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/ElseIf/bin/Debug/netcoreapp3.1/ElseIf.deps.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/ElseIf/bin/Debug/netcoreapp3.1/ElseIf.runtimeconfig.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/ElseIf/bin/Debug/netcoreapp3.1/ElseIf.runtimeconfig.dev.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/ElseIf/bin/Debug/netcoreapp3.1/ElseIf.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/ElseIf/bin/Debug/netcoreapp3.1/ElseIf.pdb
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/ElseIf/obj/Debug/netcoreapp3.1/ElseIf.csprojAssemblyReference.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/ElseIf/obj/Debug/netcoreapp3.1/ElseIf.AssemblyInfoInputs.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/ElseIf/obj/Debug/netcoreapp3.1/ElseIf.AssemblyInfo.cs
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/ElseIf/obj/Debug/netcoreapp3.1/ElseIf.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/ElseIf/obj/Debug/netcoreapp3.1/ElseIf.pdb

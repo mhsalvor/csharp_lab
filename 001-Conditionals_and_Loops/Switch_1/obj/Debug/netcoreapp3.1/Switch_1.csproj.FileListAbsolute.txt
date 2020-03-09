@@ -1,0 +1,11 @@
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Switch_1/bin/Debug/netcoreapp3.1/Switch_1
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Switch_1/bin/Debug/netcoreapp3.1/Switch_1.deps.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Switch_1/bin/Debug/netcoreapp3.1/Switch_1.runtimeconfig.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Switch_1/bin/Debug/netcoreapp3.1/Switch_1.runtimeconfig.dev.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Switch_1/bin/Debug/netcoreapp3.1/Switch_1.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Switch_1/bin/Debug/netcoreapp3.1/Switch_1.pdb
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Switch_1/obj/Debug/netcoreapp3.1/Switch_1.csprojAssemblyReference.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Switch_1/obj/Debug/netcoreapp3.1/Switch_1.AssemblyInfoInputs.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Switch_1/obj/Debug/netcoreapp3.1/Switch_1.AssemblyInfo.cs
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Switch_1/obj/Debug/netcoreapp3.1/Switch_1.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Switch_1/obj/Debug/netcoreapp3.1/Switch_1.pdb
