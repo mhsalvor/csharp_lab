@@ -1,0 +1,11 @@
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Equal/bin/Debug/netcoreapp3.1/Equal
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Equal/bin/Debug/netcoreapp3.1/Equal.deps.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Equal/bin/Debug/netcoreapp3.1/Equal.runtimeconfig.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Equal/bin/Debug/netcoreapp3.1/Equal.runtimeconfig.dev.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Equal/bin/Debug/netcoreapp3.1/Equal.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Equal/bin/Debug/netcoreapp3.1/Equal.pdb
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Equal/obj/Debug/netcoreapp3.1/Equal.csprojAssemblyReference.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Equal/obj/Debug/netcoreapp3.1/Equal.AssemblyInfoInputs.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Equal/obj/Debug/netcoreapp3.1/Equal.AssemblyInfo.cs
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Equal/obj/Debug/netcoreapp3.1/Equal.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/Equal/obj/Debug/netcoreapp3.1/Equal.pdb

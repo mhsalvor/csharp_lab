@@ -1,0 +1,11 @@
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/InputConversion/bin/Debug/netcoreapp3.1/InputConversion
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/InputConversion/bin/Debug/netcoreapp3.1/InputConversion.deps.json
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/InputConversion/bin/Debug/netcoreapp3.1/InputConversion.runtimeconfig.json
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/InputConversion/bin/Debug/netcoreapp3.1/InputConversion.runtimeconfig.dev.json
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/InputConversion/bin/Debug/netcoreapp3.1/InputConversion.dll
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/InputConversion/bin/Debug/netcoreapp3.1/InputConversion.pdb
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/InputConversion/obj/Debug/netcoreapp3.1/InputConversion.csprojAssemblyReference.cache
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/InputConversion/obj/Debug/netcoreapp3.1/InputConversion.AssemblyInfoInputs.cache
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/InputConversion/obj/Debug/netcoreapp3.1/InputConversion.AssemblyInfo.cs
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/InputConversion/obj/Debug/netcoreapp3.1/InputConversion.dll
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/InputConversion/obj/Debug/netcoreapp3.1/InputConversion.pdb

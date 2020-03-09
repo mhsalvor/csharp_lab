@@ -1,0 +1,11 @@
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DispalyValue/obj/Debug/netcoreapp3.1/DispalyValue.csprojAssemblyReference.cache
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DispalyValue/obj/Debug/netcoreapp3.1/DispalyValue.AssemblyInfoInputs.cache
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DispalyValue/obj/Debug/netcoreapp3.1/DispalyValue.AssemblyInfo.cs
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DispalyValue/bin/Debug/netcoreapp3.1/DispalyValue
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DispalyValue/bin/Debug/netcoreapp3.1/DispalyValue.deps.json
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DispalyValue/bin/Debug/netcoreapp3.1/DispalyValue.runtimeconfig.json
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DispalyValue/bin/Debug/netcoreapp3.1/DispalyValue.runtimeconfig.dev.json
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DispalyValue/bin/Debug/netcoreapp3.1/DispalyValue.dll
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DispalyValue/bin/Debug/netcoreapp3.1/DispalyValue.pdb
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DispalyValue/obj/Debug/netcoreapp3.1/DispalyValue.dll
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DispalyValue/obj/Debug/netcoreapp3.1/DispalyValue.pdb

@@ -1,0 +1,11 @@
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/IfElse/obj/Debug/netcoreapp3.1/IfElse.csprojAssemblyReference.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/IfElse/obj/Debug/netcoreapp3.1/IfElse.AssemblyInfoInputs.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/IfElse/obj/Debug/netcoreapp3.1/IfElse.AssemblyInfo.cs
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/IfElse/bin/Debug/netcoreapp3.1/IfElse
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/IfElse/bin/Debug/netcoreapp3.1/IfElse.deps.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/IfElse/bin/Debug/netcoreapp3.1/IfElse.runtimeconfig.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/IfElse/bin/Debug/netcoreapp3.1/IfElse.runtimeconfig.dev.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/IfElse/bin/Debug/netcoreapp3.1/IfElse.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/IfElse/bin/Debug/netcoreapp3.1/IfElse.pdb
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/IfElse/obj/Debug/netcoreapp3.1/IfElse.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/IfElse/obj/Debug/netcoreapp3.1/IfElse.pdb

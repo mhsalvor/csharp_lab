@@ -1,0 +1,11 @@
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DisplayValue/bin/Debug/netcoreapp3.1/DisplayValue
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DisplayValue/bin/Debug/netcoreapp3.1/DisplayValue.deps.json
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DisplayValue/bin/Debug/netcoreapp3.1/DisplayValue.runtimeconfig.json
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DisplayValue/bin/Debug/netcoreapp3.1/DisplayValue.runtimeconfig.dev.json
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DisplayValue/bin/Debug/netcoreapp3.1/DisplayValue.dll
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DisplayValue/bin/Debug/netcoreapp3.1/DisplayValue.pdb
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DisplayValue/obj/Debug/netcoreapp3.1/DisplayValue.csprojAssemblyReference.cache
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DisplayValue/obj/Debug/netcoreapp3.1/DisplayValue.AssemblyInfoInputs.cache
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DisplayValue/obj/Debug/netcoreapp3.1/DisplayValue.AssemblyInfo.cs
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DisplayValue/obj/Debug/netcoreapp3.1/DisplayValue.dll
+/home/hardin/lRepo/csharp_lab/Basic_Concepts/DisplayValue/obj/Debug/netcoreapp3.1/DisplayValue.pdb
