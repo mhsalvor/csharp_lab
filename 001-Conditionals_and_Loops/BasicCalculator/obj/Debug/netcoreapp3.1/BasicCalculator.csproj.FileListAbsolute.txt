@@ -1,0 +1,11 @@
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/BasicCalculator/bin/Debug/netcoreapp3.1/BasicCalculator
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/BasicCalculator/bin/Debug/netcoreapp3.1/BasicCalculator.deps.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/BasicCalculator/bin/Debug/netcoreapp3.1/BasicCalculator.runtimeconfig.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/BasicCalculator/bin/Debug/netcoreapp3.1/BasicCalculator.runtimeconfig.dev.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/BasicCalculator/bin/Debug/netcoreapp3.1/BasicCalculator.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/BasicCalculator/bin/Debug/netcoreapp3.1/BasicCalculator.pdb
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/BasicCalculator/obj/Debug/netcoreapp3.1/BasicCalculator.csprojAssemblyReference.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/BasicCalculator/obj/Debug/netcoreapp3.1/BasicCalculator.AssemblyInfoInputs.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/BasicCalculator/obj/Debug/netcoreapp3.1/BasicCalculator.AssemblyInfo.cs
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/BasicCalculator/obj/Debug/netcoreapp3.1/BasicCalculator.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/BasicCalculator/obj/Debug/netcoreapp3.1/BasicCalculator.pdb

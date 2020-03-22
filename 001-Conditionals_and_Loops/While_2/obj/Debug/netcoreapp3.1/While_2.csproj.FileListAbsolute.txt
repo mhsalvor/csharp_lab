@@ -1,0 +1,11 @@
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/While_2/obj/Debug/netcoreapp3.1/While_2.csprojAssemblyReference.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/While_2/obj/Debug/netcoreapp3.1/While_2.AssemblyInfoInputs.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/While_2/obj/Debug/netcoreapp3.1/While_2.AssemblyInfo.cs
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/While_2/bin/Debug/netcoreapp3.1/While_2
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/While_2/bin/Debug/netcoreapp3.1/While_2.deps.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/While_2/bin/Debug/netcoreapp3.1/While_2.runtimeconfig.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/While_2/bin/Debug/netcoreapp3.1/While_2.runtimeconfig.dev.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/While_2/bin/Debug/netcoreapp3.1/While_2.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/While_2/bin/Debug/netcoreapp3.1/While_2.pdb
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/While_2/obj/Debug/netcoreapp3.1/While_2.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/While_2/obj/Debug/netcoreapp3.1/While_2.pdb

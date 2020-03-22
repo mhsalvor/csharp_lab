@@ -1,0 +1,11 @@
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/For_3/bin/Debug/netcoreapp3.1/For_3
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/For_3/bin/Debug/netcoreapp3.1/For_3.deps.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/For_3/bin/Debug/netcoreapp3.1/For_3.runtimeconfig.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/For_3/bin/Debug/netcoreapp3.1/For_3.runtimeconfig.dev.json
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/For_3/bin/Debug/netcoreapp3.1/For_3.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/For_3/bin/Debug/netcoreapp3.1/For_3.pdb
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/For_3/obj/Debug/netcoreapp3.1/For_3.csprojAssemblyReference.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/For_3/obj/Debug/netcoreapp3.1/For_3.AssemblyInfoInputs.cache
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/For_3/obj/Debug/netcoreapp3.1/For_3.AssemblyInfo.cs
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/For_3/obj/Debug/netcoreapp3.1/For_3.dll
+/home/hardin/lRepo/csharp_lab/001-Conditionals_and_Loops/For_3/obj/Debug/netcoreapp3.1/For_3.pdb
