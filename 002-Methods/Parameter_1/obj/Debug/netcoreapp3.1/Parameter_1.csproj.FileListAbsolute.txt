@@ -1,0 +1,11 @@
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_1/bin/Debug/netcoreapp3.1/Parameter_1
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_1/bin/Debug/netcoreapp3.1/Parameter_1.deps.json
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_1/bin/Debug/netcoreapp3.1/Parameter_1.runtimeconfig.json
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_1/bin/Debug/netcoreapp3.1/Parameter_1.runtimeconfig.dev.json
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_1/bin/Debug/netcoreapp3.1/Parameter_1.dll
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_1/bin/Debug/netcoreapp3.1/Parameter_1.pdb
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_1/obj/Debug/netcoreapp3.1/Parameter_1.csprojAssemblyReference.cache
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_1/obj/Debug/netcoreapp3.1/Parameter_1.AssemblyInfoInputs.cache
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_1/obj/Debug/netcoreapp3.1/Parameter_1.AssemblyInfo.cs
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_1/obj/Debug/netcoreapp3.1/Parameter_1.dll
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_1/obj/Debug/netcoreapp3.1/Parameter_1.pdb

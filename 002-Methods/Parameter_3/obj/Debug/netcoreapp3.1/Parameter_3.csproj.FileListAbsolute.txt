@@ -1,0 +1,11 @@
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_3/bin/Debug/netcoreapp3.1/Parameter_3
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_3/bin/Debug/netcoreapp3.1/Parameter_3.deps.json
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_3/bin/Debug/netcoreapp3.1/Parameter_3.runtimeconfig.json
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_3/bin/Debug/netcoreapp3.1/Parameter_3.runtimeconfig.dev.json
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_3/bin/Debug/netcoreapp3.1/Parameter_3.dll
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_3/bin/Debug/netcoreapp3.1/Parameter_3.pdb
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_3/obj/Debug/netcoreapp3.1/Parameter_3.csprojAssemblyReference.cache
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_3/obj/Debug/netcoreapp3.1/Parameter_3.AssemblyInfoInputs.cache
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_3/obj/Debug/netcoreapp3.1/Parameter_3.AssemblyInfo.cs
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_3/obj/Debug/netcoreapp3.1/Parameter_3.dll
+/home/hardin/lRepo/csharp_lab/002-Methods/Parameter_3/obj/Debug/netcoreapp3.1/Parameter_3.pdb
